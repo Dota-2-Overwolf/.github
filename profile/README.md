@@ -62,9 +62,6 @@ Enhance your Dota 2 experience with the **Overwolf Utility Suite** — a complet
 
 ## 🖼️ Preview
 
-![Overwolf Dota 2 Overlay](https://console-apps.overwolf.com/prod/apps/kpaejaacomnkenpbmclnglmblpmfiapjlebhpcom/assets/49bed856-d988-4b26-916c-740965663fe7.jpg)  
-*Dota 2 overlay displaying builds and draft assistant*
-
 ![Match Assistant Panel](https://wewatch.gg/ru/blog/wp-content/uploads/2022/03/dotaplus_n_sc4.jpg)  
 *Example of match assistant and real-time strategy panel*
 
